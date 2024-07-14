@@ -3,7 +3,7 @@ export default function Nav() {
     <div className="nav">
       <img
         className="nav--icon"
-        src="../public/images/earth-icon.svg"
+        src="/images/earth-icon.svg"
         alt="earth icon"
       />
       <h1 className="nav--title">my travel journal.</h1>
