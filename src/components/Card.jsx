@@ -11,7 +11,7 @@ export default function Card(props) {
         <div className="card--information">
           <div className="card--location">
             <img
-              src="./public/images/location-pin.svg"
+              src="/images/location-pin.svg"
               alt="red location pin image"
             />
             <h2 className="card--location--name">{locationToUpper}</h2>
